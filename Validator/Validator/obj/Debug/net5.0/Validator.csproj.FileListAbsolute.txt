@@ -1,0 +1,12 @@
+E:\ServerCode\gitrepo\cleancode\Validator\Validator\bin\Debug\net5.0\Validator.deps.json
+E:\ServerCode\gitrepo\cleancode\Validator\Validator\bin\Debug\net5.0\Validator.dll
+E:\ServerCode\gitrepo\cleancode\Validator\Validator\bin\Debug\net5.0\ref\Validator.dll
+E:\ServerCode\gitrepo\cleancode\Validator\Validator\bin\Debug\net5.0\Validator.pdb
+E:\ServerCode\gitrepo\cleancode\Validator\Validator\obj\Debug\net5.0\Validator.csproj.AssemblyReference.cache
+E:\ServerCode\gitrepo\cleancode\Validator\Validator\obj\Debug\net5.0\Validator.GeneratedMSBuildEditorConfig.editorconfig
+E:\ServerCode\gitrepo\cleancode\Validator\Validator\obj\Debug\net5.0\Validator.AssemblyInfoInputs.cache
+E:\ServerCode\gitrepo\cleancode\Validator\Validator\obj\Debug\net5.0\Validator.AssemblyInfo.cs
+E:\ServerCode\gitrepo\cleancode\Validator\Validator\obj\Debug\net5.0\Validator.csproj.CoreCompileInputs.cache
+E:\ServerCode\gitrepo\cleancode\Validator\Validator\obj\Debug\net5.0\Validator.dll
+E:\ServerCode\gitrepo\cleancode\Validator\Validator\obj\Debug\net5.0\ref\Validator.dll
+E:\ServerCode\gitrepo\cleancode\Validator\Validator\obj\Debug\net5.0\Validator.pdb
