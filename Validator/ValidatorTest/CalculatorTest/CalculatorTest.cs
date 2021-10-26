@@ -9,7 +9,7 @@ namespace ValidatorTest
     *   
     * Unit of work : what function you going to test
     * State under test : Which condition we going to test
-    * expected behavior : What to be expect
+    * Expected behavior : What to be expect
     */
     public class CalculatorTest
     {
@@ -198,3 +198,6 @@ namespace ValidatorTest
         }
     }
 }
+
+
+
